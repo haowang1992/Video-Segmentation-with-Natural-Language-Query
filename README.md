@@ -13,6 +13,11 @@ Datasets, Papers and Codes of Video Segmentation with Natural Language Query
 ### Actor and Action Video Segmentation  
 
 1. **A2D Sentences**:  Gavrilyuk, K., et al. **Actor and action video segmentation from a sentence** 
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](https://arxiv.org/abs/1803.07485) [[Project]](https://kgavrilyuk.github.io/publication/actor_action/)  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. [[Paper]](https://arxiv.org/abs/1803.07485) [[Project]](https://kgavrilyuk.github.io/publication/actor_action/)  
 2. **J-HMDB Sentences**: Gavrilyuk, K., et al. **Actor and action video segmentation from a sentence** 
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](https://arxiv.org/abs/1803.07485) [[Project]](https://kgavrilyuk.github.io/publication/actor_action/)  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. [[Paper]](https://arxiv.org/abs/1803.07485) [[Project]](https://kgavrilyuk.github.io/publication/actor_action/)  
+
+### Video Segmentation  
+1. **Refer-DAVIS**: Anna, K., et al. **Video object segmentation with referring expressions**  
+Proceedings of the 14th Asian Conference on Computer Vision (ACCV). 2018. [[Paper]](https://arxiv.org/abs/1803.08006v3) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions)  
+
