@@ -3,10 +3,10 @@ Datasets, Papers and Codes of Video Segmentation with Natural Language Query
 
 ## Table of Contents
 - [Datasets](#datasets)
-    - [Actor and Action Video Segmentation Datasets](#actor-and-action-video-segmentation-datasets)
+    - [Actor and Action Video Segmentation](#actor-and-action-video-segmentation)
 - [Papers](#papers)
 	- [Actor and Action Video Segmentation with Natural Language Query](#actor-and-action-video-segmentation-with-natural-language-query)
 
 
 ## Datasetsts  
-### Actor and Action Video Segmentation Datasets  
+### Actor and Action Video Segmentation 
