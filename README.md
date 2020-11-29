@@ -9,4 +9,7 @@ Datasets, Papers and Codes of Video Segmentation with Natural Language Query
 
 
 ## Datasetsts  
-### Actor and Action Video Segmentation 
+### Actor and Action Video Segmentation  
+
+1. **A2D Sentences**:   
+2. **J-HMDB Sentences**:  
