@@ -7,6 +7,7 @@ Datasets, Papers and Codes of Video Segmentation with Natural Language Query
     - [Video Segmentation](#video-segmentation)
 - [Papers](#papers)
 	- [Actor and Action Video Segmentation with Natural Language Query](#actor-and-action-video-segmentation-with-natural-language-query)
+	- [Video Segmentation with Natural Language Query](#video-segmentation-with-natural-language-query)
 
 
 ## Datasetsts  
@@ -25,4 +26,6 @@ Proceedings of the European Conference on Computer Vision (ECCV). 2020. [[Paper]
 
 ## Papers
 ### Actor and Action Video Segmentation with Natural Language Query  
+
+### Video Segmentation with Natural Language Query  
 
