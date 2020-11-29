@@ -11,5 +11,6 @@ Datasets, Papers and Codes of Video Segmentation with Natural Language Query
 ## Datasetsts  
 ### Actor and Action Video Segmentation  
 
-1. **A2D Sentences**:   
+1. **A2D Sentences**:  Gavrilyuk, K., et al. **Actor and action video segmentation from a sentence** 
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](https://arxiv.org/abs/1803.07485) [[Website]](https://kgavrilyuk.github.io/publication/actor_action/)  
 2. **J-HMDB Sentences**:  
