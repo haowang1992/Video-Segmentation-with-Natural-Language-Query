@@ -20,6 +20,6 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (C
 ### Video Segmentation  
 1. **Refer-DAVIS**: Anna, K., et al. **Video object segmentation with referring expressions**  
 Proceedings of the 14th Asian Conference on Computer Vision (ACCV). 2018. [[Paper]](https://arxiv.org/abs/1803.08006v3) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions)    
-2. **Refer-Youtube-VOS**: Seo, S., et al. **URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark**  
+2. **Refer-Youtube-VOS**: Seo, S., et al. **URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark** 
 Proceedings of the European Conference on Computer Vision (ECCV). 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) [[Annotation]](https://github.com/skynbe/Refer-Youtube-VOS)   
 
