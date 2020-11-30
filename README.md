@@ -42,15 +42,15 @@ AAAI, 2020. [[Paper]](https://haowang1992.github.io/files/AAAI20/cmdy.pdf) [[Pro
 CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/McIntosh_Visual-Textual_Capsule_Routing_for_Text-Based_Video_Segmentation_CVPR_2020_paper.pdf)  
 7. Ning, Ke, et al. **Polar relative positional encoding for video-language segmentation** 
 IJCAI, 2020. [[Paper]](https://www.ijcai.org/Proceedings/2020/0132.pdf)  
-8. bellver, M., et al. **RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation** 
+8. Bellver, M., et al. **RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation** 
 arXiv, 2010.00263. [[Paper]](https://arxiv.org/abs/2010.00263)  
 9. Yang, Jianhua, et al. **Actor and Action Modular Network for Text-based Video Segmentation** 
 arXiv, 2011.00786. [[Paper]](https://arxiv.org/abs/2011.00786)  
 
 ### Video Segmentation with Natural Language Query   
-1. **Refer-DAVIS**: Anna, K., et al. **Video object segmentation with referring expressions** ACCV. 2018. [[Paper]](https://arxiv.org/abs/1803.08006v3) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions)    
-2. **Refer-Youtube-VOS**: Seo, S., et al. **URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark** ECCV. 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) [[Project]](https://github.com/skynbe/Refer-Youtube-VOS)   
-3. bellver, M., et al. **RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation** 
+1. Anna, K., et al. **Video object segmentation with referring expressions** ACCV. 2018. [[Paper]](https://arxiv.org/abs/1803.08006v3) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions)    
+2. Seo, S., et al. **URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark** ECCV. 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) [[Project]](https://github.com/skynbe/Refer-Youtube-VOS)   
+3. Bellver, M., et al. **RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation** 
 arXiv, 2010.00263. [[Paper]](https://arxiv.org/abs/2010.00263)  
 
 
