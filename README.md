@@ -38,9 +38,15 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1803.07485)
 ICCV, 2019. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf) [[Project]](https://haowang1992.github.io/publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_From_Natural_Language_Query) [[Code]](https://github.com/haowang1992/ACGA) 
 5. Wang, Hao, et al. **Context modulated dynamic networks for actor and action video segmentation with language queries** 
 AAAI, 2020. [[Paper]](https://haowang1992.github.io/files/AAAI20/cmdy.pdf) [[Project]]() [[Code]]() 
-5. Ning, Ke, et al. **Polar relative positional encoding for video-language segmentation** 
+6. McIntosh, B., et al. **Visual-Textual Capsule Routing for Text-Based Video Segmentation** 
+CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/McIntosh_Visual-Textual_Capsule_Routing_for_Text-Based_Video_Segmentation_CVPR_2020_paper.pdf)  
+7. Ning, Ke, et al. **Polar relative positional encoding for video-language segmentation** 
 IJCAI, 2020. [[Paper]](https://www.ijcai.org/Proceedings/2020/0132.pdf)  
+8. bellver, M., et al. **RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation** 
+arXiv, 2010.00263. [[Paper]](https://arxiv.org/abs/2010.00263)  
 
-### Video Segmentation with Natural Language Query  
+### Video Segmentation with Natural Language Query   
+1. **Refer-DAVIS**: Anna, K., et al. **Video object segmentation with referring expressions** ACCV. 2018. [[Paper]](https://arxiv.org/abs/1803.08006v3) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/video-segmentation/video-object-segmentation-with-language-referring-expressions)    
+2. **Refer-Youtube-VOS**: Seo, S., et al. **URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark** ECCV. 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) [[Project]](https://github.com/skynbe/Refer-Youtube-VOS)   
 
 
