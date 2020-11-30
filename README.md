@@ -38,7 +38,8 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1803.07485)
 ICCV, 2019. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf) [[Project]](https://haowang1992.github.io/publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_From_Natural_Language_Query) [[Code]](https://github.com/haowang1992/ACGA) 
 5. Wang, Hao, et al. **Context modulated dynamic networks for actor and action video segmentation with language queries** 
 AAAI, 2020. [[Paper]](https://haowang1992.github.io/files/AAAI20/cmdy.pdf) [[Project]]() [[Code]]() 
-
+5. Ning, Ke, et al. **Polar relative positional encoding for video-language segmentation** 
+IJCAI, 2020. [[Paper]](https://www.ijcai.org/Proceedings/2020/0132.pdf)  
 
 ### Video Segmentation with Natural Language Query  
 
